@@ -45,6 +45,11 @@ google
 订饭
  * http://www.meican.com
 
+百科/字典
+ * http://baike.baidu.com
+ * http://www.wikipedia.org
+ * http://dict.youdao.com
+
 其他
  * http://www.java.com 
- * http://www.wikipedia.org 
+ * 
