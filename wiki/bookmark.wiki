@@ -25,7 +25,6 @@ google
 
 搜索
  * http://www.koders.com 
- * http://www.code.ohloh.net 
 
 技术专栏
  * http://www.coolshell.cn 
