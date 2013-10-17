@@ -1,3 +1,7 @@
+= 书签 =
+
+*所有人大致能上这些网站*
+
 google
  * https://www.google.com 
  * http://www.android.com 
@@ -21,7 +25,6 @@ google
 
 搜索
  * http://www.koders.com 
- * http://www.code.ohloh.net 
 
 技术专栏
  * http://www.coolshell.cn 
